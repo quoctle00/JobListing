@@ -1,0 +1,66 @@
+[
+    
+    {
+        "title": "Front-end Developer",
+        "company": "ABC Tech Solutions",
+        "location": "New York, NY",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for a talented front-end developer to join our team."
+    },
+    {
+        "title": "Full-stack Developer",
+        "company": "XYZ Software",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "Join our dynamic team as a full-stack developer and work on exciting projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "Design Innovations",
+        "location": "Los Angeles, CA",
+        "salary": "$70,000 - $90,000 per year",
+        "description": "Seeking a creative and experienced designer for our cutting-edge projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Data Insights Inc.",
+        "location": "Chicago, IL",
+        "salary": "$60,000 - $80,000 per year",
+        "description": "Join our data analytics team and turn data into valuable insights."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Tech Innovators",
+        "location": "Seattle, WA",
+        "salary": "$90,000 - $110,000 per year",
+        "description": "We're seeking a talented software engineer to join our dynamic team."
+    },
+    {
+        "title": "Marketing Specialist",
+        "company": "Marketing Pros",
+        "location": "Chicago, IL",
+        "salary": "$70,000 - $85,000 per year",
+        "description": "Join our marketing team and create successful campaigns for our clients."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Data Insights Inc.",
+        "location": "New York, NY",
+        "salary": "$95,000 - $120,000 per year",
+        "description": "Seeking a data scientist to analyze complex data sets and provide insights."
+    },
+    {
+        "title": "Graphic Designer",
+        "company": "Creative Designs",
+        "location": "Los Angeles, CA",
+        "salary": "$60,000 - $75,000 per year",
+        "description": "Join our creative team and design stunning graphics for our projects."
+    },
+    {
+        "title": "Sales Manager",
+        "company": "Sales Masters",
+        "location": "San Francisco, CA",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "Lead our sales team and drive success in a competitive market."
+    }
+]

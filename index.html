@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Quoc's Job listings</h1>
+    </header>
+
+    <div id="jobFilters">
+        <input type="text" id="titleFilter" placeholder="Job Title">
+        <input type="text" id="locationFilter" placeholder="Location">
+        <button id="applyFilters">Apply Filters</button>
+    </div>
+
+    <div id="background-container"></div>
+
+    <main>
+        <h2>Recent Job Listings</h2>
+        
+        <ul class="job-listings" id="jobListings">
+            <!-- Job listings will be dynamically added here using JavaScript -->
+        </ul>
+    </main>
+    <video id="background-video1" autoplay muted loop>
+        <source src="business-meeting.mp4" type="video/mp4">
+    </video>
+    <video id="background-video2" autoplay muted loop>
+        <source src="meeting-and-talking.mp4" type="video/mp4">
+    </video>
+
+    <footer>
+        <p>&copy; 2023 Job Portal</p>
+    </footer>
+    
+
+    <script src="app.js"></script>
+</body>
+</html>
